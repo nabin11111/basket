@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.maps.android:maps-compose:2.14.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ead71db1c16ef9131dd05271a19e326/transformed/maps-compose-2.14.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9ead71db1c16ef9131dd05271a19e326/transformed/maps-compose-2.14.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9ead71db1c16ef9131dd05271a19e326/transformed/maps-compose-2.14.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.maps.android/maps-compose/2.14.0/2b210cf7d1994aa457a09624c932e2e4f5ec249d/maps-compose-2.14.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.maps.android/maps-compose/2.14.0/7d03163594e12fbab56747e40e73086c9f8ee58c/maps-compose-2.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

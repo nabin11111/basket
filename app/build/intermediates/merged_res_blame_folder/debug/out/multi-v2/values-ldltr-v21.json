@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nabin.basket.app-mergeDebugResources-95:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\A PLUS\\.gradle\\caches\\transforms-3\\69ddea6b73a0393c9754f651445fd9cd\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
